@@ -37,3 +37,5 @@ Hope to start and develop my professional carreir in [EPAM](https://www.epam.com
 ---
 
 ##### Languages
+### English
+A2 Pre-Intermediate (in accordance with EPAM testing), **Speaking English courses** 2019 International House
