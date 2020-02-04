@@ -24,3 +24,16 @@ Hope to start and develop my professional carreir in [EPAM](https://www.epam.com
 ---
 
 ###### Skills 
++ HTML
++ CSS
++ JS basic knowledge  
+
+---
+
+##### Education 
++ Master degree **Faculty of Engineering and Economics** - 2013 Belarusian State Technological University
++ **Web development basics** - 2019 BelHard Academy  
+
+---
+
+##### Languages
