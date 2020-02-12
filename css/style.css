@@ -1,1 +1,37 @@
+body {
+  background: #e6d2e6;
+  color: #000000;
+  font-family: Arial;
+  font-size: 12px;
+}
 
+.container {
+  background: #ffffff;
+  margin: 30px auto;
+  width: 1024px;
+  height: 600px;
+}
+
+.header {
+  clear: both;
+}
+
+.menu {
+  background: #b9cdf3;
+  float: left;
+  width: 300px;
+  height: 600px;
+}
+
+.content {
+  background: #ebe8e8;
+  float: right;
+  width: 724px;
+  height: 600px;
+  font-size: 16px;
+  font-weight: 530;
+}
+
+.footer {
+  clear: both;
+}
