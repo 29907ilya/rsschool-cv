@@ -35,3 +35,73 @@ body {
 .footer {
   clear: both;
 }
+
+.summary,
+.skills,
+.education,
+.languages {
+  margin: 8px;
+}
+
+hr {
+  margin-bottom: 15px;
+}
+
+.avatar {
+  border-radius: 400px;
+  padding: 20px;
+}
+
+.name {
+  text-align: center;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+p {
+  margin: 0px;
+}
+
+.location img {
+  width: 40px;
+  margin: 0px 130px;
+}
+.location p {
+  margin: 0px;
+  text-align: center;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.email img {
+  width: 35px;
+  margin: 10px 132px 0px;
+}
+.email p {
+  margin: 0px;
+  text-align: center;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.cell img {
+  width: 35px;
+  margin: 10px 132px 0px;
+}
+
+.cell p {
+  margin: 0px;
+  text-align: center;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.first {
+  font-weight: bold;
+  margin-top: 10px;
+  color: rgb(80, 82, 82);
+}
+
+h2 {
+  margin-bottom: 5px;
+}
